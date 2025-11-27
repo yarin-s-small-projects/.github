@@ -1,3 +1,4 @@
+#.github
 # Yarin’s Small Projects
 
 This organization gathers small projects, exercises, and experiments I’ve built while learning, practicing, or exploring new ideas. Most of the work here is in Python, with a focus on practical scripts, backend logic, and general problem-solving.
