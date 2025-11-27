@@ -5,5 +5,5 @@ This organization gathers small projects, exercises, and experiments I’ve buil
 Each repository stands on its own. Some were built as part of courses, some for personal use, and some just for fun. Together they show my range of interests and how I approach real code, not just polished final projects.
 
 If you want to see my main work, visit my primary GitHub profile:  
-**[https://github.com/YarinG](https://github.com/ozeriyarin)**
+**[https://github.com/ozeriyarin]**
 
